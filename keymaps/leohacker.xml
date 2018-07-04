@@ -138,6 +138,9 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="SmartSearchAction">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
   <action id="Vcs.Log.GoToRef" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
